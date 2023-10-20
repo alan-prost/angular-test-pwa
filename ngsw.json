@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1697761697636,
+  "timestamp": 1697761787862,
   "index": "/angular-test-pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/angular-test-pwa/favicon.ico",
         "/angular-test-pwa/index.html",
-        "/angular-test-pwa/main.fb26d599107947b2.js",
+        "/angular-test-pwa/main.4f777898cff8e76f.js",
         "/angular-test-pwa/manifest.webmanifest",
         "/angular-test-pwa/polyfills.0b49463154c29978.js",
         "/angular-test-pwa/runtime.09ccb83ed37096db.js",
@@ -52,8 +52,8 @@
     "/angular-test-pwa/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "/angular-test-pwa/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "/angular-test-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/angular-test-pwa/index.html": "c730b47bb9436fccbdb539ee2c7cd65dd390992e",
-    "/angular-test-pwa/main.fb26d599107947b2.js": "85babc9552a620493c5b46a04bc9eadfded05657",
+    "/angular-test-pwa/index.html": "59a089cacb25b3430ce11eda8e174d3a57d22fa1",
+    "/angular-test-pwa/main.4f777898cff8e76f.js": "0ced3f7b887f860e0dfa1b7a5884ee17ff0e2bbe",
     "/angular-test-pwa/manifest.webmanifest": "72e0747c3985ad2f3af317d556c76e9c5b487059",
     "/angular-test-pwa/polyfills.0b49463154c29978.js": "165dff4a32245f01ca98e0a25e7b18e88af13a06",
     "/angular-test-pwa/runtime.09ccb83ed37096db.js": "5ae8c65d282b217231b4abb2885d4356f9594204",
